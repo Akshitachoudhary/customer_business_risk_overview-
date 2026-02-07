@@ -74,7 +74,6 @@ A dashboard screenshot is included in the `dashboard/` folder.
 - **Python** (Pandas, NumPy)
 - **Power BI**
 
-
 ## Business Impact
 - Enables proactive identification of high-risk customers
 - Supports targeted retention and engagement strategies
@@ -89,7 +88,7 @@ A dashboard screenshot is included in the `dashboard/` folder.
 
 ##  Author
 **Akshita Choudhary**  
-![Customer Business Risk Dashboard](https://github.com/Akshitachoudhary/customer_business_risk_overview)
+![Customer Business Risk Dashboard](https://github.com/Akshitachoudhary/customer_business_risk_overview-/blob/main/customer_risk_radar/Dashboard.png)
 
 
 

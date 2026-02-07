@@ -36,8 +36,11 @@ Customer risk is modeled using four key dimensions:
 
 Customer Risk Score =
 0.30 × Engagement Risk
+
 0.30 × Revenue Risk
+
 0.25 × Conversion Risk
+
 0.15 × Trust Risk
 
 
@@ -68,7 +71,8 @@ An executive-style **Power BI dashboard** was created to:
 - Compare risk across customer segments
 - Explain *why* customers are risky using risk driver analysis
 
-A dashboard screenshot is included in the `dashboard/` folder.
+  ![Customer Business Risk Dashboard](https://github.com/Akshitachoudhary/customer_business_risk_overview-/blob/main/customer_risk_radar/Dashboard.png)
+
 
 ## Tools & Technologies
 - **Python** (Pandas, NumPy)
@@ -88,7 +92,6 @@ A dashboard screenshot is included in the `dashboard/` folder.
 
 ##  Author
 **Akshita Choudhary**  
-![Customer Business Risk Dashboard](https://github.com/Akshitachoudhary/customer_business_risk_overview-/blob/main/customer_risk_radar/Dashboard.png)
 
 
 

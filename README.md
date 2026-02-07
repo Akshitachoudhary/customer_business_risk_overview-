@@ -34,13 +34,10 @@ Customer risk is modeled using four key dimensions:
 - Higher values indicate **higher business risk**
 - A weighted composite score was calculated as:
 
-- Customer Risk Score =
+Customer Risk Score =
 0.30 × Engagement Risk
-
 0.30 × Revenue Risk
-
 0.25 × Conversion Risk
-
 0.15 × Trust Risk
 
 
@@ -76,7 +73,7 @@ A dashboard screenshot is included in the `dashboard/` folder.
 ## Tools & Technologies
 - **Python** (Pandas, NumPy)
 - **Power BI**
-- **GitHub**
+
 
 ## Business Impact
 - Enables proactive identification of high-risk customers
